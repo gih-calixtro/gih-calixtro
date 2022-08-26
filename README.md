@@ -1,7 +1,6 @@
 # 👋 oi eu sua a Giovanna
 ## 👀 eu estou interesada em aprender conputacao
 ##  atualmente estou aprendo conputacao pretendo avancar mais
-####- 💞 estou prou
 #####- 📫 como chegar ate mim ,pelas redes sociais 
 
 <!---
